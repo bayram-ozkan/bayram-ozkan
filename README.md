@@ -1,15 +1,14 @@
 ![Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile-000000?style=for-the-badge&logo=github&logoColor=white&color=red)
 
+## About Me
 
-
-
+I am improving myself with trainings in the fields of Cyber Security and Devops. Both fields are very beautiful and interesting. I want to improve my skills in both detecting security vulnerabilities and DevOps. My goal is to contribute to both fields, keep up with the developing technology and continue to learn continuously.
                                      
-# DevOps
+# DevOps Skills
 
- [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,bitbucket,ansible,docker,k8s,jenkins,githubactions,mongodb,aws,gcp,azure,maven)](https://skillicons.dev)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash,python,git,github,bitbucket,ansible,docker,k8s,argocd,jenkins,githubactions,mongodb,aws,gcp,azure,maven)
  
-# Cyber Securtiy
+# Cyber Securtiy Skills
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557CFF?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
