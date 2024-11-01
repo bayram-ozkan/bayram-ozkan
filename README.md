@@ -6,7 +6,7 @@
                                      
 # DevOps
 
- [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,bitbucket,ansible,docker,k8s,mongodb,azure,maven)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,bitbucket,ansible,docker,k8s,jenkins,githubactions,mongodb,aws,gcp,azure,maven)](https://skillicons.dev)
 
  
 # Cyber Securtiy
