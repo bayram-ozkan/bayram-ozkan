@@ -10,6 +10,10 @@ I am improving myself with trainings in the fields of Cyber Security and Devops.
  
 # Cyber Securtiy Skills
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/bbw0rld.png" alt="Your Image Badge" />
+
+
+
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557CFF?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Metasploit-4E6E6F?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
