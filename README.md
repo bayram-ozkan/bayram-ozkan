@@ -1,6 +1,6 @@
-![Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile-000000?style=for-the-badge&logo=github&logoColor=white&color=red)
+# About Me
 
-## About Me
+![Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile-000000?style=for-the-badge&logo=github&logoColor=white&color=red)
 
 I am improving myself with trainings in the fields of Cyber Security and Devops. Both fields are very beautiful and interesting. I want to improve my skills in both detecting security vulnerabilities and DevOps. My goal is to contribute to both fields, keep up with the developing technology and continue to learn continuously.
                                      
