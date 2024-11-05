@@ -10,8 +10,7 @@ I am improving myself with trainings in the fields of Cyber Security and Devops.
  
 # Cyber Securtiy Skills
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/bbw0rld.png" alt="Your Image Badge" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/bbw0rld.png" alt="TRYhackme" />
 
 
 <p>
