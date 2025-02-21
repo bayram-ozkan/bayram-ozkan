@@ -2,13 +2,13 @@
 
 ![Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile-000000?style=for-the-badge&logo=github&logoColor=white&color=red)
 
-I am improving myself with trainings in the fields of Cyber Security and Devops. Both fields are very beautiful and interesting. I want to improve my skills in both detecting security vulnerabilities and DevOps. My goal is to contribute to both fields, keep up with the developing technology and continue to learn continuously.
+# Linux, Cyber Security, DevOps, DevSecOps , life learning...
                                      
-# DevOps Skills
+## DevOps Skills
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash,python,git,github,bitbucket,ansible,docker,k8s,argocd,jenkins,githubactions,mongodb,aws,gcp,azure,maven)
  
-# Cyber Securtiy Skills
+## Cyber Securtiy Skills
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/bbw0rld.png)
 
