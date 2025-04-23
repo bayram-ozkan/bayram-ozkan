@@ -6,12 +6,11 @@
                                      
 ## DevOps Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash,python,git,github,bitbucket,ansible,docker,k8s,argocd,jenkins,githubactions,mongodb,aws,gcp,azure,maven)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash,python,git,github,bitbucket,ansible,docker,k8s,argocd,jenkins,githubactions,helm,terraform,mongodb,aws,gcp,azure,maven)
  
 ## Cyber Securtiy Skills
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/bbw0rld.png)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/bbw0r1d.png" alt="Your Image Badge" />
 
 
 <p>
