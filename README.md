@@ -27,4 +27,23 @@
   <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white" alt="Gobuster" />
 </p>
 
+ ## Activity Graph
+ 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bayram-ozkan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bayram-ozkan&theme=cottoncandy&bg_color=00000000&hide_border=true&radius=5&height=300">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayram-ozkan&theme=react&bg_color=00000000&hide_border=true&radius=5&height=300" alt="Activity Graph">
+  </picture>
+</div>
 
+
+
+ GitHub Contribution Snake,
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayram-ozkan/bayram-ozkan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayram-ozkan/bayram-ozkan/output/github-snake.svg">
+  <img alt="Github Snake" src="https://raw.githubusercontent.com/bayram-ozkan/bayram-ozkan/output/github-snake.svg">
+</picture>
+</p>
