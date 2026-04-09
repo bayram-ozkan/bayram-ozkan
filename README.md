@@ -38,7 +38,6 @@
 </div>
 
 
-
  GitHub Contribution Snake,
 <p align="center">
 <picture>
